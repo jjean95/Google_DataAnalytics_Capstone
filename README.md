@@ -1,5 +1,5 @@
 # Google Data Analytics Capstone Projects
-Capstone project for Google Data Analytics Certificate
+This is a repo for Google Data Analytics Certificate Capstone project
 
 Case 1: Cyclistic
 
