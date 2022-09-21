@@ -5,11 +5,11 @@ This is a repo for Google Data Analytics Certificate Capstone project
 Analyze bike sharing data to find insights
 
 Tasks include:
-* Data collection
-* Data cleaning - R & Spreadsheet
-* Data wrangling - R
-* Data analysis - R
-* Data visualization - Tableau
+* Data collection - Collecting 12 months data from given file link
+* Data cleaning - Cleaning data using R & Spreadsheet
+* Data wrangling - Data wrangling in R
+* Data analysis - Get insights from the clean data using R
+* Data visualization - Using Tableau to visualize data
 
 ### Skills learned:
 * Spreadsheets
