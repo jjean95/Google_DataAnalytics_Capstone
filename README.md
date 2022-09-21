@@ -23,7 +23,9 @@ Analyze bike sharing data to find insights
 
 #### R
 
-*
+* Import libraries - library(package)
+* Top 6 rows of data - head(file)
+* Look at structure of data - str(file)
 
 #### Tableau (Data visualization)
 
