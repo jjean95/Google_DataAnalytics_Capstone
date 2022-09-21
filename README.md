@@ -12,11 +12,22 @@ Tasks include:
 * Data visualization - Using Tableau to visualize data
 
 ### Skills learned:
-* Spreadsheets
-* SQL
-* R
-* Tableau (Data visualization)
 
+#### Spreadsheets
+
+*
+
+#### SQL
+
+*
+
+#### R
+
+*
+
+#### Tableau (Data visualization)
+
+*
 
 [Link to Kaggle notebook](https://www.kaggle.com/code/jjean95/google-data-analytic-capstone-cyclistic)
 
