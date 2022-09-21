@@ -6,10 +6,10 @@ Analyze bike sharing data to find insights
 
 Tasks include:
 * Data collection
-* Data cleaning
-* Data wrangling
-* Data analysis
-* Data visualization
+* Data cleaning - R & Spreadsheet
+* Data wrangling - R
+* Data analysis - R
+* Data visualization - Tableau
 
 ### Skills learned:
 * Spreadsheets
