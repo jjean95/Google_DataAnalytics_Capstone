@@ -27,7 +27,7 @@ Analyze bike sharing data to find insights
 
 #### SQL
 
-*
+* Select 10 rows of data -- SELECT * FROM table LIMIT 10
 
 #### R
 
@@ -37,7 +37,8 @@ Analyze bike sharing data to find insights
 
 #### Tableau (Data visualization)
 
-*
+* create map
+* 
 
 [Link to Kaggle notebook](https://www.kaggle.com/code/jjean95/google-data-analytic-capstone-cyclistic)
 
