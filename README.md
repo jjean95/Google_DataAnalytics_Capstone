@@ -37,8 +37,8 @@ Analyze bike sharing data to find insights
 
 #### Tableau (Data visualization)
 
-* create map
-* 
+* create dashboards
+* create storyboard - type of users, trends, map
 
 [Link to Kaggle notebook](https://www.kaggle.com/code/jjean95/google-data-analytic-capstone-cyclistic)
 
