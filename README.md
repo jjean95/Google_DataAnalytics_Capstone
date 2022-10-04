@@ -21,9 +21,9 @@ Analyze bike sharing data to find insights
 * Calculate the max ride_length
 * Calculate the mode of day of week
 * Create a pivot table for:
-* - average ride_length for members and casual riders
-* - average ride_length for users by day_of_week
-* - number of rides for users by day_of_week
+* - average ride_length for members and casual riders (rows: member_casual; values: average of ride_length)
+* - average ride_length for users by day_of_week (columns: day_of_week; rows: member_casual; values: average of ride_length)
+* - number of rides for users by day_of_week (columns: day_of_week; rows: member_casual; values: count of trip_id)
 
 #### SQL
 
