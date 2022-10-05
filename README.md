@@ -27,6 +27,7 @@ Analyze bike sharing data to find insights
 
 #### SQL
 
+* Upload data to BigQuery
 * Select 10 rows of data -- SELECT * FROM table LIMIT 10
 
 #### R
