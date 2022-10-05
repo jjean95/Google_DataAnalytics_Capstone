@@ -29,6 +29,7 @@ Analyze bike sharing data to find insights
 
 * Upload data to BigQuery
 * Select 10 rows of data -- SELECT * FROM table LIMIT 10
+* Sort data according to column_name (accending order) -- SELECT * FROM table ORDER BY column_name
 
 #### R
 
