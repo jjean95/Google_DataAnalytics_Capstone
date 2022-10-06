@@ -15,10 +15,10 @@ Analyze bike sharing data to find insights
 
 #### Spreadsheets
 
-* Create a column called "ride_length" -- subtracting "started_at" from "ended_at" column, format as HH:MM:SS
-* Create a column called "day_of_week" -- using WEEKDAY command, format as GENERAL
-* Calculate the mean of ride_length
-* Calculate the max ride_length
+* Create a column called `ride_length` -- subtracting `started_at` from `ended_at` column, format as `HH:MM:SS`
+* Create a column called `day_of_week` -- using `WEEKDAY` command, format as `GENERAL`
+* Calculate the mean of `ride_length`
+* Calculate the max `ride_length`
 * Calculate the mode of day of week
 * Create a pivot table for:
 * - average ride_length for members and casual riders (rows: member_casual; values: average of ride_length)
