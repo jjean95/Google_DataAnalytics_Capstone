@@ -34,6 +34,12 @@ Analyze bike sharing data to find insights
 #### R
 
 * Import libraries - `library(package)`
+  * - `dplyr` -
+  * - `tidyr` -
+  * - `skimr` -
+  * - `janitor` -
+  * - `lubridate` -
+  * - `ggplot2` -
 * Top 6 rows of data - `head(file)`
 * Look at structure of data - `str(file)`
 
