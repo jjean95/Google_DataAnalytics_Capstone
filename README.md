@@ -36,7 +36,7 @@ Analyze bike sharing data to find insights
 * Import libraries - `library(package)`
   * - `dplyr` - data manipulation library
   * - `tidyr` - cleaning and tidying the data
-  * - `skimr` -
+  * - `skimr` - provide summary statistics about variables in data frames
   * - `janitor` -
   * - `lubridate` -
   * - `ggplot2` - data visualization library
