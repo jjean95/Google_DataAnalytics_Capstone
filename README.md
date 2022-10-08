@@ -37,8 +37,8 @@ Analyze bike sharing data to find insights
   * - `dplyr` - data manipulation library
   * - `tidyr` - cleaning and tidying the data
   * - `skimr` - provide summary statistics about variables in data frames
-  * - `janitor` -
-  * - `lubridate` -
+  * - `janitor` - expedite the initial data exploration and cleaning
+  * - `lubridate` - working with date time data
   * - `ggplot2` - data visualization library
 * Top 6 rows of data - `head(file)`
 * Look at structure of data - `str(file)`
