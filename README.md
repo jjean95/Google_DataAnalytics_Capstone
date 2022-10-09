@@ -33,6 +33,12 @@ Analyze bike sharing data to find insights
 * Insert new values into the table -- ```INSERT INTO table (column_1, column_2) VALUES (value1, value2)```
 * Update a value -- ```UPDATE table SET column_1 = 'value1' WHERE column_2 = 1234 ```
 * Create new table if not exist -- ```CREATE table IF NOT EXISTS```
+* Change the column value type from string to float -- ```CAST(column_1 AS FLOAT)```
+* Add two text strings together -- ```CONCAT(column_1, column_2)```
+* Return non-null value in a list -- ```COALESCE(column_1, column_2)```
+* Return the length of a string of text by counting the number of characters it contains -- ```LENGTH()/LEN()```
+* Return a limited number of characters to create substrings from longer strings of text -- ```SUBSTR()```
+* Remove leading, trailing, and repeated spaces in data -- ```TRIM()```
 
 #### R
 
