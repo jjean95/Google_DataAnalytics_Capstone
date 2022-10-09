@@ -4,7 +4,7 @@ This is a repo for Google Data Analytics Certificate Capstone project
 ## Case 1: Cyclistic
 Analyze bike sharing data to find insights
 
-#### Tasks include:
+### Tasks include:
 * Data collection - Collecting 12 months data from given file link
 * Data cleaning - Cleaning data using R & Spreadsheet
 * Data wrangling - Data wrangling in R
