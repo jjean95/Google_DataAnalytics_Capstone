@@ -32,6 +32,7 @@ Analyze bike sharing data to find insights
 * Sort data according to column_name (accending order) -- ```SELECT * FROM table ORDER BY column_name```
 * Insert new values into the table -- ```INSERT INTO table (column_1, column_2) VALUES (value1, value2)```
 * Update a value -- ```UPDATE table SET column_1 = 'value1' WHERE column_2 = 1234 ```
+* Create new table if not exist -- ```CREATE table IF NOT EXISTS```
 
 #### R
 
