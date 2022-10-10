@@ -50,8 +50,10 @@ Analyze bike sharing data to find insights
   * - `lubridate` - working with date time data
   * - `ggplot2` - data visualization library
 * Top 6 rows of data - `head(file)`
+* Bottom 6 rows of data - `tail(file)`
 * Look at structure of data - `str(file)`
-* Merge into single csv - CSV <- `rbind(table_1,table_2)`
+* Merge into single csv - `big_file <- rbind(table_1,table_2)`
+* Calculate time difference - `column <- difftime(column_1, column_2)`
 
 #### Tableau (Data visualization)
 
