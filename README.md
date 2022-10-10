@@ -51,6 +51,7 @@ Analyze bike sharing data to find insights
   * - `ggplot2` - data visualization library
 * Top 6 rows of data - `head(file)`
 * Look at structure of data - `str(file)`
+* Merge into single csv - CSV <- `rbind(table_1,table_2)`
 
 #### Tableau (Data visualization)
 
