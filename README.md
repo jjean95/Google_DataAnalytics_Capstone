@@ -54,6 +54,9 @@ Analyze bike sharing data to find insights
 * Look at structure of data - `str(file)`
 * Merge into single csv - `big_file <- rbind(table_1,table_2)`
 * Calculate time difference - `column <- difftime(column_1, column_2)`
+* Format date as day_of_week column - `table$day_of_week <- format(as.Date(table$column_1), "%A")`
+* Filter the data - `filter(table, column criteria)`
+* Fill the blanks with NA - `na_if("")`
 
 #### Tableau (Data visualization)
 
