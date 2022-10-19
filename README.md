@@ -70,3 +70,10 @@ Analyze bike sharing data to find insights
 
 ## Case 2: Bellabeat
 Analyze health sharing data to find insights
+
+### Tasks include:
+* Data collection - Collecting 12 months data from given file link
+* Data cleaning - Cleaning data using R & Spreadsheet
+* Data wrangling - Data wrangling in R
+* Data analysis - Get insights from the clean data using R
+* Data visualization - Using Tableau to visualize data
