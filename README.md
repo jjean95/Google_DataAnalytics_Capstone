@@ -77,3 +77,8 @@ Analyze health sharing data to find insights
 * Data wrangling - Data wrangling in R
 * Data analysis - Get insights from the clean data using R
 * Data visualization - Using Tableau to visualize data
+
+### Skills learned:
+
+#### R
+* Create simple scatterplot - `ggplot(data=data, aes(x=column_1,y=column_2)) + geom_point()`
