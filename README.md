@@ -82,3 +82,5 @@ Analyze health sharing data to find insights
 
 #### R
 * Create simple scatterplot - `ggplot(data=data, aes(x=column_1,y=column_2)) + geom_point()`
+
+[Link to Kaggle notebook](https://www.kaggle.com/code/jjean95/google-data-analytic-capstone-cyclistic)
